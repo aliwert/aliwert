@@ -1,12 +1,12 @@
-[![MasterHead](https://i.pinimg.com/originals/8c/b4/88/8cb48892e3fa929efdab85b19eb31c90.gif)
 <h1 align="center">Hi 👋, I'm Ali Mert</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliwert&label=Profile%20views&color=0e75b6&style=flat" alt="aliwert" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, CSS, HTML,**
 
-- ⚡ Fun.fact: **I love computer games (🎮), coding(💻) and reading(📖)**
+- ⚡ Fun fact **I love computer games (🎮), coding(💻) and reading(📖)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
