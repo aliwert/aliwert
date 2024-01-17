@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Mert</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
+<img align="left" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliwert&label=Profile%20views&color=0e75b6&style=flat" alt="aliwert" /> </p>
 
