@@ -8,7 +8,7 @@
 
 -  💬 Ask me about **If there's anything you need don't hesitate to ask.**
 
-- ⚡ Fun fact **I love Computer Games (🎮), Coding(💻), Reading(📖), Basketball(🏀), Swimming(🏊🏻‍♂️) and Tennis(🎾) **
+- ⚡ Fun fact I love Computer Games (🎮), Coding(💻), Reading(📖), Basketball(🏀), Swimming(🏊🏻‍♂️) and Tennis(🎾) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
