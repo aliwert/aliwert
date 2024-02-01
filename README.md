@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Mert</h1>
+<h1 align="center">🏂 Hi 👋, I'm Ali Mert</h1>
 <h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
