@@ -128,8 +128,8 @@
   <br>
   A quote that resonates with me is...
   <blockquote>
-    “Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.”
-    <br><strong>Albert Einstein"</strong>
+    “I don't have dreams, I have goals. Now it's on the next one”
+    <br><strong>Aaron Korsh interpreted by Gabriel Macth in the series "Suits"</strong>
   </blockquote>
 </details>
 
