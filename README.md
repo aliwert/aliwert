@@ -176,3 +176,11 @@ If you have any questions about web development, writing mistake-free documentat
   <a href="https://www.linkedin.com/in/alimerterdogan/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 
 </div>
+
+<div align="center">
+  <h2>:snake: My Contributions :snake:</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
