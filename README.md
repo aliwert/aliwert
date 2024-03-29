@@ -160,8 +160,8 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+<blockquote>“Hate has 4 letters but so does love. Enemies has 7 letters but so does friends. Lying has 5 letters but so does truth. Failure has 7 letters but so does success. Cry has 3 letters but so does joy and Negativity has 10 letters but so does positivity. We always have a choice, So choose the better side of it.”
+</blockquote>
 
   </td>
   </tr>
