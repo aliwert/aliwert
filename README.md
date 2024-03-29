@@ -77,11 +77,12 @@
       <kbd>Front-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="sass" title="sass" src="https://github.com/sass.png" /> 
-      <img width="30px" alt="html5" title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" alt="css3" title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
+      <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
+      <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" /> 
+      <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" /> 
+      <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+      <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
