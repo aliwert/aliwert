@@ -57,7 +57,7 @@
       <br>
       <br>
       <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=js" /> 
-      <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=py" /> 
+      <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=py&theme=light" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
