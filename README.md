@@ -83,6 +83,7 @@
       <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" /> 
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -98,7 +99,7 @@
       <kbd>VCS & Devops</kbd>
       <br>
       <br>
-      <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=git" />
     </kbd>
     <kbd>
       <kbd>CLI</kbd>
@@ -111,7 +112,7 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=vscode" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
       </kbd>
