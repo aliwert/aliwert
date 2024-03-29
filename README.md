@@ -56,7 +56,8 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=js" /> 
+      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=js" />
+      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=ts" /> 
       <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=py&theme=light" /> 
     </kbd>
     <kbd>
@@ -66,6 +67,8 @@
       <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+      <img width="30px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
+      <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
@@ -84,6 +87,7 @@
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
       <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+      <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -113,8 +117,10 @@
       <br>
       <br>
       <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=vscode" />
+      <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+      
       </kbd>
   </p>
 </div>
@@ -168,4 +174,9 @@ If you have any questions about web development, writing mistake-free documentat
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+<div align=center>
+ <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+ </div>
 
