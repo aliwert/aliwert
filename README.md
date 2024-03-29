@@ -56,16 +56,16 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" alt="js" title="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=js" /> 
+      <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=py" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="RoR" title="RoR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-      <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
+      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+      <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+      <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
@@ -87,9 +87,9 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+      <img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+      <img width="30px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+      <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
     </kbd>
     <br>
     <br>
@@ -103,7 +103,8 @@
       <kbd>CLI</kbd>
       <br>
       <br>
-      <img width="30px" alt="bash" title="bash" src="https://cdn.simpleicons.org/gnubash/white" />
+      <img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+      <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
