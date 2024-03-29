@@ -176,7 +176,8 @@ If you have any questions about web development, writing mistake-free documentat
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 <div align=center>
- <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+     <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://dev.to/aliwert"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=devto" /></a>
  </div>
 
