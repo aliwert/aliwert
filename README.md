@@ -109,16 +109,10 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vim" title="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
       <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" alt="sublime" title="sublime" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" alt="pycharm" title="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" alt="rubymine" title="rubymine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" alt="intellij" title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" alt="android studio" title="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  </kbd>
+      </kbd>
   </p>
 </div>
 </details>
