@@ -88,7 +88,7 @@
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
       <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
       <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
-      <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=nextjs" />
+      <img width="30px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
