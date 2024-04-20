@@ -81,6 +81,7 @@
       <br>
       <br>
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
+      <img width="30px" alt="jquery" title="jquery" src="https://skillicons.dev/icons?i=jquery" /> 
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
