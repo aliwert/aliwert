@@ -116,7 +116,8 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vscode" title="redux" src="https://skillicons.dev/icons?i=vscode" />
+      <img width="30px" alt="eclipse" title="eclipse" src="https://skillicons.dev/icons?i=eclipse" />
+      <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
       <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
