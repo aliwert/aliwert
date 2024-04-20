@@ -1,7 +1,7 @@
 [//]: # (https://gpvc.arturio.dev/aliwert) 
 [//]: # (Unfortunately aliwert's repo, as seen above was archived and the link isn't working so I built my own "https://github.com/aliwert/github-profile-view-tracker")
 
-![](https://komarev.com/ghpvc/?username=aliwert&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=aliwert&style=for-the-badge&color=ff0000)
 
 <div align="center">
 
