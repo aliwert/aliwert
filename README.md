@@ -82,8 +82,6 @@
       <br>
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
-      <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" /> 
-      <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" /> 
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
       <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
