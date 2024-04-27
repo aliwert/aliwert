@@ -88,6 +88,7 @@
       <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
       <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
       <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+      <img width="30px" alt="materialui" title="materialui" src="https://skillicons.dev/icons?i=materialui" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
