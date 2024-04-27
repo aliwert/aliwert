@@ -74,7 +74,7 @@
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="30px" alt="react native"  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
