@@ -114,7 +114,7 @@
       <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>Tools & IDEs</kbd>
       <br>
       <br>
       <img width="30px" alt="eclipse" title="eclipse" src="https://skillicons.dev/icons?i=eclipse" />
