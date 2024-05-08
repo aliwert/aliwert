@@ -17,7 +17,7 @@
       <img height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Avatar photo of Aliwert">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Basketball Player;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Basketball Player;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
