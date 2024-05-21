@@ -32,14 +32,14 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Sivas, Turkey.
- * @param {string} languagues - English, Turkish.
+ * @param {string} city - Istanbul, Turkey.
+ * @param {string} languagues - Turkish, English, Russian.
  * @param {string} jobTitle - Full Stack Developer.
  * @param {string} specialization - Building full-fledged web applications.
  * @param {string} interests - AI, writing & problem-solving.
  * @param {string} hobbies - Basketball, reading, table tennis, swimming & playing music.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out
- * @throws {Punch} To any and all bugs.
+ * @throws {Punch} For any and every bug.
  * @returns {Object} Aliwert.
  */
 ```
