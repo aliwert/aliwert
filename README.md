@@ -41,6 +41,9 @@
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out
  * @throws {Punch} For any and every bug.
  * @returns {Object} Aliwert.
+ * while (!success) {
+    tryAgain();
+}
  */
 ```
 
