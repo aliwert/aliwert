@@ -85,13 +85,13 @@
       <br>
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
       <img width="30px" alt="jquery" title="jquery" src="https://skillicons.dev/icons?i=jquery" /> 
+      <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+      <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+      <img width="30px" alt="materialui" title="materialui" src="https://skillicons.dev/icons?i=materialui" />
+      <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-      <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
-      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
-      <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
-      <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
-      <img width="30px" alt="materialui" title="materialui" src="https://skillicons.dev/icons?i=materialui" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -127,8 +127,6 @@
       <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-      
-      </kbd>
   </p>
 </div>
 </details>
