@@ -121,6 +121,7 @@
       <br>
       <br>
       <img width="30px" alt="eclipse" title="eclipse" src="https://skillicons.dev/icons?i=eclipse" />
+      <img width="30px" alt="cypress" title="cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" />
       <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
       <img width="30px" alt="visualstudio" title="visualstudio" src="https://skillicons.dev/icons?i=visualstudio" />
       <img width="30px" alt="neovim" title="neovim" src="https://skillicons.dev/icons?i=neovim" />
