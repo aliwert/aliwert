@@ -184,8 +184,9 @@ If you have any questions about web development, writing mistake-free documentat
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 <div align=center>
-     <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://dev.to/aliwert"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=devto" /></a>
+   <a href="https://www.linkedin.com/in/alimerterdogan/" target="blank"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+   <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan" target="blank"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+ <a href="https://dev.to/aliwert" target="blank"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=devto" /></a>
+ <a href="https://leetcode.com/u/aliwert/" target="blank"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="aliwert" height="50" width="50" />
  </div>
 
