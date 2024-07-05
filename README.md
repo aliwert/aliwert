@@ -31,19 +31,21 @@
 
 ```js
 /**
- namespace Introduction
-{
-    public class Aliwert
-    {
-        public string City { get; } = "Istanbul, Turkey";
-        public string[] Languages { get; } = { "Turkish", "English", "Russian" };
-        public string JobTitle { get; } = "Software Developer";
-        public string Specialization { get; } = "Backend Developer";
-        public string[] Interests { get; } = { "AI", "Computer", "Problem-Solving" };
-        public string[] Hobbies { get; } = { "Basketball", "Reading", "table tennis", "tennis", "swimming", "playing music" };
-        public string Approachable { get; } = "Yes, to collaborate on exciting projects, don't hesitate to reach out";
 
- */
+ * Represents me.
+ * @constructor
+ * @param {string} city - Istanbul, Turkey.
+ * @param {string} languagues - Turkish, English, Russian.
+ * @param {string} jobTitle - Software Developer.
+ * @param {string} specialization - Building full-fledged web applications.
+ * @param {string} interests - Computer & Problem-Solving.
+ * @param {string} hobbies - Basketball, reading, table tennis, swimming & playing music.
+ * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out
+ * @throws {Punch} For any and every bug.
+ * @returns {Object} Aliwert.
+ * while (!success) {
+    tryAgain();
+}
 ```
 
 </div>
