@@ -61,6 +61,7 @@
       <br>
       <br>
       <img width="30px" alt="c#" title="c#" src="https://skillicons.dev/icons?i=cs" />
+      <img width="30px" alt="java title="java" src="https://skillicons.dev/icons?i=java" />
       <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
       <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" /> 
       <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" /> 
