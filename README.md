@@ -110,6 +110,7 @@
       <br>
       <br>
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+      <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=docker" />
     </kbd>
     <kbd>
       <kbd>CLI</kbd>
