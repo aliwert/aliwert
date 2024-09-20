@@ -18,7 +18,7 @@
       <img height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Avatar photo of Aliwert">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Basketball Player;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4200&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Basketball Player;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -70,7 +70,8 @@
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=dotnet" />
+      <img width="30px" alt="dotnet" title="dotnet" src="https://skillicons.dev/icons?i=dotnet" />
+      <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring&theme=light" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
       <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
@@ -86,12 +87,9 @@
       <br>
       <br>
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
-      <img width="30px" alt="jquery" title="jquery" src="https://skillicons.dev/icons?i=jquery" /> 
       <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
       <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
       <img width="30px" alt="materialui" title="materialui" src="https://skillicons.dev/icons?i=materialui" />
-      <img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
-      <img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
       <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
     </kbd>
