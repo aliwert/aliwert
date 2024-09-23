@@ -70,7 +70,6 @@
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="dotnet" title="dotnet" src="https://skillicons.dev/icons?i=dotnet" />
       <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring&theme=light" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
@@ -80,7 +79,7 @@
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" alt="react native"  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="30px" alt="react native"  title="react native" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -88,10 +87,7 @@
       <br>
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
       <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
-      <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
-      <img width="30px" alt="materialui" title="materialui" src="https://skillicons.dev/icons?i=materialui" />
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
-      <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -99,6 +95,7 @@
       <br>
       <img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
       <img width="30px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+      <img width="30px" alt="mssql" title="mssql" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
       <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
     </kbd>
     <br>
