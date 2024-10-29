@@ -60,11 +60,11 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="c#" title="c#" src="https://skillicons.dev/icons?i=cs" />
       <img width="30px" alt="java title="java" src="https://skillicons.dev/icons?i=java" />
+      <img width="30px" alt="go" title="go" src="https://skillicons.dev/icons?i=go&theme=light" /> 
       <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
-      <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" /> 
-      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" /> 
+      <img width="30px" alt="py" title="py" src="https://skillicons.dev/icons?i=py&theme=light" /> 
+      <img width="30px" alt="c#" title="c#" src="https://skillicons.dev/icons?i=cs" />
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -135,8 +135,8 @@
   <br>
   A quote that resonates with me is...
   <blockquote>
-    “I don't have dreams, I have goals. Now it's on the next one”
-    <br><strong>Aaron Korsh interpreted by Gabriel Macth in the series "Suits"</strong>
+    “I am not leaving a spiritual legacy of dogmas, unchangeable petrified directives. My spiritual legacy is science and reason.”
+    <br><strong>Mustafa Kemal Ataturk</strong>
   </blockquote>
 </details>
 
