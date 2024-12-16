@@ -67,65 +67,38 @@
       <img width="30px" alt="c#" title="c#" src="https://skillicons.dev/icons?i=cs" />
     </kbd>
     <kbd>
-      <kbd>Back-end</kbd>
+      <kbd>Web-Mobile Development</kbd>
       <br>
       <br>
       <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring&theme=light" />
+      <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=ts&theme=light" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
-      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
       <img width="30px" alt="react native"  title="react native" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
+      <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
       <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
       <img width="30px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
       <img width="30px" alt="mssql" title="mssql" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
       <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+      <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
     </kbd>
     <br>
     <br>
     <kbd>
-      <kbd>VCS & Devops</kbd>
+      <kbd>Software & Others</kbd>
       <br>
       <br>
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=docker" />
+      <img width="30px" alt="kubernetes" title="kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
     </kbd>
-    <kbd>
-      <kbd>CLI</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
-      <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
-    </kbd>
-    <kbd>
-      <kbd>Tools & IDEs</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="eclipse" title="eclipse" src="https://skillicons.dev/icons?i=eclipse" />
-      <img width="30px" alt="cypress" title="cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" />
-      <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
-      <img width="30px" alt="visualstudio" title="visualstudio" src="https://skillicons.dev/icons?i=visualstudio" />
-      <img width="30px" alt="neovim" title="neovim" src="https://skillicons.dev/icons?i=neovim" />
-      <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
-      <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   </p>
 </div>
 </details>
@@ -148,32 +121,7 @@
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 </details>
 
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation, feel free to, I won't bite, I'll promise.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“Hate has 4 letters but so does love. Enemies has 7 letters but so does friends. Lying has 5 letters but so does truth. Failure has 7 letters but so does success. Cry has 3 letters but so does joy and Negativity has 10 letters but so does positivity. We always have a choice, So choose the better side of it.”
-</blockquote>
-
-  </td>
-  </tr>
-</table>
-</details>
 
 </details>
 
