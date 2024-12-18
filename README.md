@@ -71,13 +71,14 @@
       <br>
       <br>
       <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring&theme=light" />
-      <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=ts&theme=light" />
+      <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts&theme=light" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="30px" alt="react native"  title="react native" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
       <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+      <img width="30px" alt="django" title="django" src="https://skillicons.dev/icons?i=django&theme=light" />
+      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
       <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
-      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
       <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
     </kbd>
     <kbd>
@@ -95,6 +96,7 @@
       <kbd>Software & Others</kbd>
       <br>
       <br>
+      <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=docker" />
       <img width="30px" alt="kubernetes" title="kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
