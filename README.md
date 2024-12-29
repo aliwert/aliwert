@@ -64,7 +64,6 @@
       <img width="30px" alt="go" title="go" src="https://skillicons.dev/icons?i=go&theme=light" /> 
       <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
       <img width="30px" alt="py" title="py" src="https://skillicons.dev/icons?i=py&theme=light" /> 
-      <img width="30px" alt="c#" title="c#" src="https://skillicons.dev/icons?i=cs" />
     </kbd>
     <kbd>
       <kbd>Web-Mobile Development</kbd>
