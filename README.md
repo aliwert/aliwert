@@ -96,9 +96,9 @@
       <br>
       <br>
       <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+      <img width="30px" alt="kubernetes" title="kubernetes" src="https://skillicons.dev/icons?i=aws" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=docker" />
-      <img width="30px" alt="kubernetes" title="kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
     </kbd>
   </p>
 </div>
