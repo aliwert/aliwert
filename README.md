@@ -18,7 +18,7 @@
       <img height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Avatar photo of Aliwert">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4200&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Basketball Player;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4200&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Software Developer;Professional Basketball Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -29,22 +29,27 @@
 
 <div align="left">
 
-```js
-/**
+```rust
+struct Aliwert {
+    city: &'static str,
+    job_title: &'static str,
+    specialization: &'static str,
+    hobbies: &'static [&'static str],
+}
 
- * Represents me.
- * @constructor
- * @param {string} city - Istanbul, Turkey.
- * @param {string} languagues - Turkish, English, Russian.
- * @param {string} jobTitle - Software Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - Computer & Problem-Solving.
- * @param {string} hobbies - Basketball, reading, table tennis, swimming & playing music.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out
- * @throws {Punch} For any and every bug.
- * @returns {Object} Aliwert.
- * while (!success) {
-    tryAgain();
+impl Aliwert {
+    fn new() -> Self {
+        Aliwert {
+            city: "Istanbul, Turkey",
+            job_title: "Software Developer",
+            specialization: "Building full-fledged web applications",
+            hobbies: &["Basketball", "Reading", "Music"],
+        }
+    }
+
+    fn fix_bugs(&self) {
+        println!("Bug squashed!");
+    }
 }
 ```
 
