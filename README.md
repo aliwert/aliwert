@@ -4,7 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=aliwert&style=for-the-badge&color=ff0000)
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Click Open Profile" alt="Typing SVG" /></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Click%20Open%20Profile%20;&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" /></a>
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
@@ -18,7 +19,8 @@
       <img height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Avatar photo of Aliwert">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4200&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aliwert;Welcome+to+my+profile!;Description+of+myself%3A;Software Developer;Professional Basketball Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer%20;Backend%20Enthusiast%20;Confident%20and%20Ambitious%20;Always%20learning%20new%20things;Basketball%20and%20Chess%20Lover&;font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" /></a>
   </div>
 </div>
 
@@ -77,13 +79,10 @@ impl Aliwert {
       <img width="30px" alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring&theme=light" />
       <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts&theme=light" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
-      <img width="30px" alt="react native"  title="react native" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
-      <img width="30px" alt="django" title="django" src="https://skillicons.dev/icons?i=django&theme=light" />
-      <img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+      <img width="30px" alt="fastapi" title="fastapi" src="https://skillicons.dev/icons?i=fastapi" />
+      <img width="30px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
       <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" /> 
-      <img width="30px" alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
-      <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" /> 
+      <img width="30px" alt="react native"  title="react native" src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -92,7 +91,6 @@ impl Aliwert {
       <img width="30px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
       <img width="30px" alt="mssql" title="mssql" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
       <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
-      <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
     </kbd>
     <br>
     <br>
@@ -101,9 +99,9 @@ impl Aliwert {
       <br>
       <br>
       <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
-      <img width="30px" alt="kubernetes" title="kubernetes" src="https://skillicons.dev/icons?i=aws" />
+      <img width="30px" alt="aws" title="aws" src="https://skillicons.dev/icons?i=aws" />
       <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
-      <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=docker" />
+      <img width="30px" alt="docker" title="docker" src="https://skillicons.dev/icons?i=docker" />
     </kbd>
   </p>
 </div>
