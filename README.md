@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Avatar photo of Aliwert">
+      <img height="200" src="https://github.com/aliwert/ss/blob/e603be79e243c9973441714bb548cd10c84853d5/main.png" alt="Avatar photo of Aliwert">
   </div>
   <div align=center>
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
